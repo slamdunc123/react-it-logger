@@ -27,20 +27,6 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2019-05-31T19:57:35.544Z"
-    },
-    {
-      "message": "Server issus",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-15T15:09:36.356Z",
-      "id": 5
-    },
-    {
-      "message": "Broken mouse",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-15T15:12:35.955Z",
-      "id": 6
     }
   ],
   "techs": [
