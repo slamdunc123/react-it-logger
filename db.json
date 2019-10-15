@@ -15,18 +15,18 @@
       "date": "2019-05-31T16:18:04.245Z"
     },
     {
-      "message": "1122 wireless down",
+      "id": 3,
+      "message": "1122 wireless broken",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "date": "2019-10-15T16:09:09.146Z"
     },
     {
       "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "message": "Workstation 026 is down",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-10-15T16:09:28.550Z"
     }
   ],
   "techs": [
