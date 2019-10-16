@@ -19,14 +19,7 @@
       "message": "1122 wireless broken",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-10-16T08:54:17.391Z"
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is down",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-10-15T16:09:28.550Z"
+      "date": "2019-10-16T09:12:25.259Z"
     }
   ],
   "techs": [
@@ -51,19 +44,9 @@
       "id": 4
     },
     {
-      "firstName": "Duncan",
-      "lastName": "Laidlaw",
-      "id": 5
-    },
-    {
       "firstName": "Jill",
       "lastName": "Smith",
       "id": 6
-    },
-    {
-      "firstName": "Guy",
-      "lastName": "Garvey",
-      "id": 7
     }
   ]
 }
