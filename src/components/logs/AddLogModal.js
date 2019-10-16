@@ -6,6 +6,9 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { addLog } from "../../actions/logActions";
 
+// components
+import TechSelectOptions from "../techs/TechSelectOptoions";
+
 const AddLogModal = ({ addLog }) => {
   const [message, setMessage] = useState("");
   const [attention, setAttention] = useState(false);
@@ -60,9 +63,7 @@ const AddLogModal = ({ addLog }) => {
               <option value='' disabled>
                 Select Technician
               </option>
-              <option value='John Doe'>John Doe</option>
-              <option value='Sam Smith'>Sam Smith</option>
-              <option value='Sara Wilson'>Sara Wilson</option>
+              <TechSelectOptions />
             </select>
           </div>
         </div>
